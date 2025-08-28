@@ -39,4 +39,4 @@ console.log(student["fullName"]);
 student.age = 26;
 console.log(student.age);
 student["age"] + 5;
-uuuuuu
+console.log("hello");
