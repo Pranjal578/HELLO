@@ -132,3 +132,41 @@
 // }
 
 
+// let num2=5
+// if( num2%2 === 0){
+//     console.log(num2 + " is even");
+
+// }
+// else{
+//     console.log(num2 + " is odd");
+// }
+
+
+// prompt("Enter your name: ");//this will show a prompt box to enter the name
+// let userName = prompt("Enter your name: ");//this will show a prompt box to enter the name and store it in userName variable
+// console.log("Hello, " + userName + "!");
+
+
+let number = prompt("Enter a number: ");
+console.log("enter the number: "+ number);
+if(number >= 90 && number <= 100){
+    console.log("A+");
+}
+else if(number >= 80 && number < 90){
+    console.log("A");
+}
+else if(number >= 70 && number < 80){
+    console.log("B+");
+}   
+else if(number >= 60 && number < 70){
+    console.log("B");
+}       
+else if(number >= 50 && number < 60){
+    console.log("C+");
+}
+else if(number >= 40 && number < 50){
+    console.log("C");
+}
+else{
+    console.log("Fail");
+}

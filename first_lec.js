@@ -1,4 +1,5 @@
-console.log("Hello, World!");
+alert("Hello, World!");// This will show an alert box with the message "Hello, World!"
+console.log("Hello, World!");// This will log the message "Hello, World!" to the console
 console.log("This is the first JavaScript file.");
 let age;// Variable declaration
 age = 25;// Variable initialization
