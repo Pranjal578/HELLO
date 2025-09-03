@@ -10,8 +10,8 @@
 // //operators in javascript
 
 // //arithmetic operators
-// let a = 10;
-// let b = 20;
+let a = 10;
+let b = 20;
 // console.log("a+b = " + (a+b));//addition operator
 // console.log("a-b = " + (a-b));//subtraction operator
 // console.log("a*b = " + (a*b));//multiplication operator
@@ -35,7 +35,7 @@
 // console.log(!(a<b));//logical not operator  
 
 // //increment and decrement operators
-// console.log(a++);//post increment operator
+// console.log(a);//post increment operator
 // console.log(++a);//pre increment operator
 // console.log(a--);//post decrement operator
 // console.log(--a);//pre decrement operator
@@ -147,26 +147,26 @@
 // console.log("Hello, " + userName + "!");
 
 
-let number = prompt("Enter a number: ");
-console.log("enter the number: "+ number);
-if(number >= 90 && number <= 100){
-    console.log("A+");
-}
-else if(number >= 80 && number < 90){
-    console.log("A");
-}
-else if(number >= 70 && number < 80){
-    console.log("B+");
-}   
-else if(number >= 60 && number < 70){
-    console.log("B");
-}       
-else if(number >= 50 && number < 60){
-    console.log("C+");
-}
-else if(number >= 40 && number < 50){
-    console.log("C");
-}
-else{
-    console.log("Fail");
-}
+// let number = prompt("Enter a number: ");
+// console.log("enter the number: "+ number);
+// if(number >= 90 && number <= 100){
+//     console.log("A+");
+// }
+// else if(number >= 80 && number < 90){
+//     console.log("A");
+// }
+// else if(number >= 70 && number < 80){
+//     console.log("B+");
+// }   
+// else if(number >= 60 && number < 70){
+//     console.log("B");
+// }       
+// else if(number >= 50 && number < 60){
+//     console.log("C+");
+// }
+// else if(number >= 40 && number < 50){
+//     console.log("C");
+// }
+// else{
+//     console.log("Fail");
+// }
